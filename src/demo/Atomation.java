@@ -25,7 +25,7 @@ System.out.println("Automation testing...");
 
 	}
 
-	public static void pull(){
+	public static void pull1(){
 
 System.out.println("Automation testing...");
 
