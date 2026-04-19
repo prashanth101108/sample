@@ -15,6 +15,8 @@ public class Atomation {
 		
 		System.out.println("Automation testing...");
 		System.out.println("Automation testing...");
+		System.out.println("Automation testing...");
+		System.out.println("Automation testing...");
 	}
 	
 	public static void pull(){
