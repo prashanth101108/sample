@@ -17,7 +17,11 @@ public class Atomation {
 		System.out.println("Automation testing...");
 	}
 	
-	
+	public static void pull(){
+
+System.out.println("Automation testing...");
+
+	}
 	
 	
 	
