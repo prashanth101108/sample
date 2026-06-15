@@ -10,6 +10,8 @@ public class Atomation {
 		System.out.println("Automation testing...");
 		System.out.println("Automation testing...");
 		System.out.println("Automation testing...");
+		System.out.println("Automation testing...2222");
+		System.out.println("Automation testing...2222");
 	
 	}
 	
