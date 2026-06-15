@@ -7,8 +7,8 @@ public class neww {
 int test;
 int test1;
 
-//int test;
-//int test1;
+int test;
+int test1;
 	}
 
 }
