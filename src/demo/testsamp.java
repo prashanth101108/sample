@@ -3,7 +3,8 @@ package demo;
 public class testsamp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		int test;
 
 	}
 
